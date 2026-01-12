@@ -1,6 +1,6 @@
 ## Использование ESP32 Marauder напрямую
 
-**Вводное видео для начинающих:** [Ultimate ESP32 Marauder Guide | Wi-Fi & Bluetooth Hacking Tools Explained](https://www.youtube.com/watch?v=YpVu-UF6k10)
+**Вводное видео для начинающих:** [Ultimate ESP32 Marauder Guide | Wi‑Fi &amp; Bluetooth Hacking Tools Explained - YouTube](https://www.youtube.com/watch?v=Co5FG3ivHhg&t=172s)
 
 **Важно:** GPS-антенна заявлена как всенаправленная, но на самом деле направленная — керамическая часть должна быть направлена в небо для корректного позиционирования.
 
